@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xml" href="hallgatoR41N5H.xsl"?>
+
+<hallgatok>
+
+	<hallgato id="01">
+		<keresztnev>Ádám</keresztnev>
+		<vezeteknev>Borbély</vezeteknev>
+		<becenev>Kapitány</becenev>
+        <kor>23</kor>
+        <osztondij>18000</osztondij>
+	</hallgato>
+
+	<hallgato id="02">
+		<keresztnev>Piroska</keresztnev>
+		<vezeteknev>Vígh</vezeteknev>
+		<becenev>Piri</becenev>
+        <kor>21</kor>
+        <osztondij>14000</osztondij>
+	</hallgato>
+
+	<hallgato id="03">
+		<keresztnev>Ferenc</keresztnev>
+		<vezeteknev>Gordon</vezeteknev>
+		<becenev>Feri</becenev>
+        <kor>19</kor>
+        <osztondij>26000</osztondij>
+    </hallgato>
+    
+</hallgatok>

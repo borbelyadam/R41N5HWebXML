@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylsheet type="text/xsl" href="autok.xsl"?>
+
+<autok>
+
+    <auto rsz="MFJ-302">
+        <tipus> Peugeot 206 </tipus>
+        <ar> 1000000 </ar>
+        <szin> fehér </szin>
+        <tulaj>
+            <nev>Ádám</nev>
+            <varos>Miskolc</varos>
+        </tulaj>
+    </auto>
+
+    <auto rsz="SOS-404">
+        <tipus> Audi A4 </tipus>
+        <ar> 2000000 </ar>
+        <szin> fekete </szin>
+        <tulaj>
+            <nev>Józsi</nev>
+            <varos>Tapolca</varos>
+        </tulaj>
+    </auto>
+
+    <auto rsz="POR-911">
+        <tipus> Porsche 911 GT3-RS </tipus>
+        <ar> 15000000 </ar>
+        <szin> Bézs </szin>
+        <tulaj>
+            <nev>Laci</nev>
+            <varos>Eger</varos>
+        </tulaj>
+    </auto>
+    
+    <auto rsz="ADD-204">
+        <tipus> Golf MK2 </tipus>
+        <ar> 800000 </ar>
+        <szin> kék </szin>
+        <tulaj>
+            <nev>Dani</nev>
+            <varos>Kazincbarcika</varos>
+        </tulaj>
+    </auto>
+
+</autok>
